@@ -1,2 +1,0 @@
-print("goodbuy world")
-print("goodbye")
